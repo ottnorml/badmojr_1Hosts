@@ -1,4 +1,7 @@
 
+# https://github.com/badmojr/1Hosts/issues/2737
+crash-report-service.svc.ui.com
+
 # https://github.com/badmojr/1Hosts/issues/2793
 sitecheck.opera.com
 
