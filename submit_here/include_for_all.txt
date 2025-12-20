@@ -1,4 +1,0 @@
-
-# https://github.com/badmojr/1Hosts/issues/3181
-roblox.com.kz
-lms.roblox.com

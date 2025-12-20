@@ -1,6 +1,0 @@
-
-# https://github.com/badmojr/1Hosts/issues/3133
-experience.ninetailed.co
-
-# https://github.com/badmojr/1Hosts/issues/3056
-suggestions.dadata.ru
