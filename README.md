@@ -184,7 +184,6 @@ updates infrequently; supports subdomain/wildcard & CNAME blocking; unlimited qu
 
 Highly effective, compact, and actively maintained (since: Dec 2, 2017).
 Smaller in size compared to alternatives, yet blocks more for many users.
-Xtra may need tweaking for best results.
 
 ⠀
 ----------------
