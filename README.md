@@ -102,10 +102,16 @@
 **Usage Notes**<br>
 ----------------
 
-> [!TIP]
-> Start with Lite.<br>
-> Upgrade to Xtra for enhanced blocking.
->
+Choose between **Lite** and **Xtra** based on your needs, protection level, and tolerance for issues like false positives.
+
+- **Lite**  
+  For general users, beginners, families, or casual browsing where stability matters.  
+  **Low false positives**: Accurate, non-disruptive blocking.
+
+- **Xtra**  
+  Ideal for *advanced users or privacy enthusiasts* focused on maximum threat mitigation, even if it requires troubleshooting.  
+  However, it carries a **higher false positive rate**. This is an inherent trade-off for its aggressive nature, and users can report issues for removals. Not for everyone!
+
 
 Add the appropriate URL to your adblock client's settings or use DNS options below.<br>
 
