@@ -112,7 +112,12 @@ Choose between **Lite** and **Xtra** based on your needs, protection level, and 
   Ideal for *advanced users or privacy enthusiasts* focused on maximum threat mitigation, even if it requires troubleshooting.  
   However, it carries a **higher false positive rate**. This is an inherent trade-off for its aggressive nature, and users can report issues for removals. Not for everyone!
 
+One easy trick is to use the "Lite" blocklist as your foundation, applied directly through a hosts file on your device.
 
+This approach minimizes clutter in your DNS logs by handling basic blocking at the local level.
+Given that the Lite list is exceptionally accurate and reliable, it allows you to swiftly pinpoint any issues—since queries blocked via the hosts file are stopped before they ever hit your DNS resolver (e.g., NextDNS).
+
+<br>
 Add the appropriate URL to your adblock client's settings or use DNS options below.<br>
 
 <a href="https://controld.com/"><strong><em>ControlD: </em></strong></a>
