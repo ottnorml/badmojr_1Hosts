@@ -1,6 +1,10 @@
 # Problematic ads & tracker domains not up for removal on Pro and Xtra.
 # .........................................
 
+
+# https://github.com/badmojr/1Hosts/issues/3239
+ct.ddc.paypal.com.fpc.datadome.com
+
 # https://github.com/badmojr/1Hosts/issues/1967
 html-load.com
 css-load.com
@@ -11,7 +15,7 @@ css-load.com
 # https://github.com/badmojr/1Hosts/issues/1178
 xp.apple.com
 
-# Facebook
+# https://github.com/badmojr/1Hosts/issues/3094
 graph.facebook.com
 connect.facebook.net
 pixel.facebook.com
