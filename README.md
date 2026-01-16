@@ -196,9 +196,9 @@ Smaller in size compared to alternatives, yet blocks more for many users.
   <a href="./-data/lists/assets.txt">To the curators whose diligence underpins this endeavor, thank you!</a> <br></p><br>
 
 <p align="center"><strong>mentions</strong> <br>
-<a href="https://forum.xda-developers.com/posts/74708195">forum.xda-developers.com/posts/74708195</a> <br>
 <a href="https://github.com/yokoffing/NextDNS-Config">Config NextDNS</a><br>
 <a href="https://controld.com/free-dns?freeResolverType=x-1hosts-lite&helpPane=platform">ControlD Setup</a> <br>
+<a href="https://grokipedia.com/page/1Hosts">Wiki</a> <br>
 </p>
 
 <br>
