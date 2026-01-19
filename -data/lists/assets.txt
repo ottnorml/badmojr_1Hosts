@@ -201,13 +201,13 @@ https://github.com/ShadowWhisperer/BlockLists/raw/master/Lists/Malware
 https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
 https://github.com/klst90/domainlists/raw/main/blacklist/blacklist.txt
 https://github.com/luzhnan/luzhnan-list/raw/main/REJECT-DOMAINSET.conf
+https://github.com/hagezi/dns-blocklists/raw/main/domains/pro.plus.txt
 https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
 https://github.com/svetlyobg/svet-custom-domains/raw/master/ads-domains
 https://github.com/zhouhanc/malware-discoverer/raw/master/blocklist.csv
 https://github.com/Yuki2718/adblock/raw/master/japanese/jp-paranoid.txt
 https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
 https://github.com/SukkaW/Surge/raw/master/Source/domainset/reject.conf
-https://github.com/hagezi/dns-blocklists/blob/main/domains/pro.plus.txt
 https://github.com/Phentora/AdguardPersonalList/raw/master/blocklist.txt
 https://github.com/xlimit91/xlimit91-block-list/raw/master/blacklist.txt
 https://github.com/tomzuu/blacklist-named/raw/master/phishing.sites.conf
