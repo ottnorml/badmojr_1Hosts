@@ -115,7 +115,7 @@ Choose between **Lite** and **Xtra** based on your needs, protection level, and 
 One easy trick is to use the "Lite" blocklist as your foundation, applied directly through a hosts file on your device.
 
 This approach minimizes clutter in your DNS logs by handling basic blocking at the local level.
-Given that the Lite list is exceptionally accurate and reliable, it allows you to swiftly pinpoint any issues—since queries blocked via the hosts file are stopped before they ever hit your DNS resolver (e.g., NextDNS).
+Given that the Lite list is exceptionally accurate and reliable, it allows you to swiftly pinpoint any issues—since queries blocked via the hosts file are stopped before they ever hit your DNS resolver (e.g., NextDNS with Xtra enabled).
 
 <br>
 Add the appropriate URL to your adblock client's settings or use DNS options below.<br>
