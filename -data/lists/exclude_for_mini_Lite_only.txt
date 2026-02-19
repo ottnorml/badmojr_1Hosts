@@ -1,4 +1,7 @@
 
+# https://github.com/badmojr/1Hosts/issues/3421
+tw.netcore.co.in
+
 # https://github.com/badmojr/1Hosts/issues/3133
 experience.ninetailed.co
 
