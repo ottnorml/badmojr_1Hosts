@@ -32,8 +32,9 @@ jobs:
         if: steps.read-list.outputs.issues != ''
         uses: actions/github-script@v9
         with:
+          github-token: ${{ github.token }}
           script: |
-            const client = getOctokit(process.env.GITHUB_TOKEN, {
+            const client = getOctokit('${{ github.token }}', {
               request: {
                 headers: {
                   'X-GitHub-Api-Version': '2026-03-10'
