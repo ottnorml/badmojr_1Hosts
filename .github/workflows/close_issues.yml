@@ -50,7 +50,7 @@ jobs:
               nextStart.setUTCDate(nextStart.getUTCDate() + 2);
             }
             let nextFinish = new Date(nextStart);
-            nextFinish.setUTCHours(nextFinish.getUTCHours() + 1);
+            nextFinish.setUTCHours(nextFinish.getUTCHours() + 2);
             const diffMs = nextFinish - now;
             const etaHours = Math.ceil(diffMs / (1000 * 60 * 60));
             const finishTime = nextFinish.toUTCString();
