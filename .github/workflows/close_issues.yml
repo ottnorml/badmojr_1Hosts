@@ -47,7 +47,7 @@ jobs:
             let nextStart = new Date(now);
             nextStart.setUTCHours(7, 2, 0, 0);
             if (nextStart < now) {
-              nextStart.setUTCDate(nextStart.getUTCDate() + 1);
+              nextStart.setUTCDate(nextStart.getUTCDate() + 2);
             }
             let nextFinish = new Date(nextStart);
             nextFinish.setUTCHours(nextFinish.getUTCHours() + 1);
